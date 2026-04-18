@@ -1,0 +1,5 @@
+/mnt/c/DATA/stellar-web3/The-On-Chain-Status/target/release/build/stellar-xdr-ee1bb00b4bd3efa5/build_script_build-ee1bb00b4bd3efa5.d: /home/xiaozxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-22.1.0/build.rs
+
+/mnt/c/DATA/stellar-web3/The-On-Chain-Status/target/release/build/stellar-xdr-ee1bb00b4bd3efa5/build_script_build-ee1bb00b4bd3efa5: /home/xiaozxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-22.1.0/build.rs
+
+/home/xiaozxa/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/stellar-xdr-22.1.0/build.rs:
