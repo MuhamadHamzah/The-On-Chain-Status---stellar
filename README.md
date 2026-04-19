@@ -84,6 +84,6 @@ Run the development server:
 npm run dev
 ```
 
-![Contract Deployment on Stellar Testnet](screenshot.png)
+![Contract Deployment on Stellar Testnet](screenshot1.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result. You must have the [Freighter browser extension](https://freighter.app/) installed to submit transactions.
