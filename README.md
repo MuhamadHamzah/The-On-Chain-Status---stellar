@@ -47,7 +47,7 @@ If you'd prefer to use statically generated typings rather than the dynamic `Con
 
 ```bash
 stellar contract bindings typescript \
-  --id <YOUR_CONTRACT_ID> \
+  --id CAMXAP55FALHYBMQBA2RI3HAOC5BANXJHO7QD3CE4NWPREP4ZWQFIULC \
   --network testnet \
   --output-dir frontend/src/contracts/status \
   --overwrite
